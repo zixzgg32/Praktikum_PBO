@@ -5,3 +5,7 @@ Sistem Crud untuk entitas Pelanggan yang bisa membuat akun, login ke akun yang t
 
 Posttest 2: 
 Memanfaatkan build tools maven.
+
+Posttest 3:
+Menambah class owner dan teknisi sebagai subclass dari admin
+Menambahkan menu admin
